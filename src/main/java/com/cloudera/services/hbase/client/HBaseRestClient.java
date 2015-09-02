@@ -26,7 +26,7 @@ public class HBaseRestClient {
 	}
 
 /*	public static void main(String[] args) throws IOException {
-        HBaseRestExample restExample = new HBaseRestExample("hca-demo-3.vpc.cloudera.com", 20550, "qualys");
+        HBaseRestExample restExample = new HBaseRestExample("myhbase-rest-client.com", 20550, "pwdata");
 		//get.addColumn(Bytes.toBytes("c"), Bytes.toBytes("batch_id"));
 		List<String> gid_list = new ArrayList<String>();
 		gid_list.add("00502");
